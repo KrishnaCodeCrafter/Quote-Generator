@@ -16,7 +16,7 @@ A responsive Quote Generator website that fetches inspiring quotes from an API. 
 - **JavaScript** - Functionality and API integration
 - **Quote API** - For fetching random quotes
 
-## 📸 Screenshot
+## Screenshot
 ![Screenshot 2025-02-04 192240](https://github.com/user-attachments/assets/4ccb81d7-b0aa-4f69-8e5d-8519f5533bde)
 
 
